@@ -155,7 +155,7 @@ GET    /api/v1/pessoas
 Exemplo de payload (POST `/api/v1/pessoas`):
 
 ```json
-{
+{ 
   "nomeCompleto": "Maria da Silva",
   "cpf": "12345678901",
   "dataNascimento": "1990-05-20",
